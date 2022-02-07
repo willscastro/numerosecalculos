@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.py": [
+      {
+        "id": "708f778d-0764-45cd-865d-cc9820777b55",
+        "line": 2,
+        "version": 985,
+        "index": 33
+      },
+      {
+        "id": "a3a2423f-d8e8-4c14-803f-34b5ba4a11e2",
+        "line": 4,
+        "version": 985,
+        "index": 69
+      }
+    ],
+    "numeros_primarios.py": [
+      {
+        "id": "128f1789-8711-4dca-bb30-0eb8675490cf",
+        "line": 5,
+        "version": 132,
+        "index": 114
+      }
+    ]
+  }
+}
